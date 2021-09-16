@@ -2,6 +2,27 @@
 
 <div align=center>I'm Hyeokin Kim full stack .NET developer from South Korea.</div>
 
+<div align=center> 
+  <table>
+    <thead>
+      <tr>
+        <th>StackOverflow</th>
+        <th>GitHub</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://github-readme-stackoverflow.vercel.app/?userID=11513691"/>
+        </td>
+         <td>
+          <img src="https://github-readme-stats.vercel.app/api?username=devncore-kevin&show_icons=true&theme=buefy&count_private=true&hide_border=true&hide_title=true&disable_animations=true&line_height=25"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 ## _Tech_
 ![](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=C-Sharp)
 ![](https://img.shields.io/badge/-.NET-%235C2D91?style=for-the-badge&logo=.NET)
