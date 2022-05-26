@@ -3,7 +3,6 @@
 <div align=center>I'm Hyeokin Kim full stack .NET developer from South Korea</div>        
 
 <br />
-<br />
 
 <div align=center> 
   <table>
